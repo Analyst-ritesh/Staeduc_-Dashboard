@@ -44,6 +44,8 @@ The main objectives of the Star Duck Toy Sales Dashboard project are as follows:
 
 ![Screenshot (41)](https://github.com/Analyst-ritesh/Starduck_Dashboard/assets/137258065/0fe78243-5a55-4c9d-8dca-df4617df1396)
 
+![Screenshot (42)](https://github.com/Analyst-ritesh/Starduck_Dashboard/assets/137258065/bdde4ee7-ea32-46c0-b3ba-c4ca3cae380d)
+
 
 ## Insights:
 1. Dinosaur Figures Dominance: Dinosaur figures alone accounted for a significant portion of the revenue, making up 49.5% of the total revenue. This suggests that dinosaur figures are a strong revenue driver for the toy business.
