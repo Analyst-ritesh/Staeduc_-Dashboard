@@ -32,11 +32,11 @@ The main objectives of the Star Duck Toy Sales Dashboard project are as follows:
 
 ## Data Processing:
 
-1. Data Import: Import the sales dataset into Power BI.
+1. Data Import: Imported the sales dataset into Power BI.
 
-2. Data Cleaning: Clean the data to handle missing values, remove duplicates, and ensure data consistency.
+2. Data Cleaning: Cleaned the data to handle missing values, remove duplicates, ensure data consistency.
 
-3. Data Modeling: Create dimension tables for 'Region', 'Store', and 'Store Type'. Additionally, generate a 'Date' table using DAX functions to enhance date-related analysis.
+3. Data Modeling: Created dimension tables for 'Region', 'Store', and 'Store Type'. Additionally, generated a 'Date' table using DAX functions to enhance date-related analysis.
 
 4. Data Transformation: Apply transformations and calculations to the dataset to derive meaningful insights. For example, calculate total sales, create measures for sales trends, and compute product-specific metrics.
 
